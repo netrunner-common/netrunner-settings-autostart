@@ -8,8 +8,7 @@ Standards-Version: 3.7.2
 Package: netrunner-settings-autostart
 Architecture: all
 Multi-Arch: foreign
-Depends: novnc
-Recommends: x11vnc
+Recommends: x11vnc, novnc, yakuake
 Replaces: netrunner-system (<< 1.1.4), c1-netrunner-core-settings (<< 0+p8+git20160825)
 Breaks: netrunner-system (<< 1.1.4), c1-netrunner-core-settings (<< 0+p8+git20160825)
 Description: Autostart files
