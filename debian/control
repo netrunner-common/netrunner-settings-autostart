@@ -9,7 +9,7 @@ Package: netrunner-settings-autostart
 Architecture: all
 Multi-Arch: foreign
 Recommends: x11vnc, novnc, yakuake
-Replaces: netrunner-system (<< 1.1.4), c1-netrunner-core-settings (<< 0+p8+git20160825)
-Breaks: netrunner-system (<< 1.1.4), c1-netrunner-core-settings (<< 0+p8+git20160825)
+Replaces: netrunner-system (<< 1.1.4), c1-netrunner-core-settings (<< 0+p8+git20160825), default-settings-autostart
+Breaks: netrunner-system (<< 1.1.4), c1-netrunner-core-settings (<< 0+p8+git20160825), default-settings-autostart
 Description: Autostart files
   This package provides the default autostart files of Maui/Netrunner.
